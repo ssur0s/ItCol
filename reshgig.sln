@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reshgig", "reshgig\reshgig.csproj", "{F93CF80D-DAEE-40BF-93F9-221A29300216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93CF80D-DAEE-40BF-93F9-221A29300216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93CF80D-DAEE-40BF-93F9-221A29300216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93CF80D-DAEE-40BF-93F9-221A29300216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93CF80D-DAEE-40BF-93F9-221A29300216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC74413-38D9-463D-AADF-90C068D63847}
+	EndGlobalSection
+EndGlobal
